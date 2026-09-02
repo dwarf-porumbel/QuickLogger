@@ -1,7 +1,5 @@
 <img width="1500" height="500" alt="QuickLogger_Header" src="https://github.com/user-attachments/assets/7fa9a1d3-c73b-4f6c-901d-676197ad41dc" />
 
-**IF YOU ARE LOOKING FOR THE Delphi QuickLogger LIBRARY, THIS IS NOT IT!**
-
 **THIS PROJECT IS FOR EDUCATIONAL-PURPOSES ONLY!**
 **I DO NOT ENCOURAGE NOR PROMOTE CYBER-CRIME!**
 ---
