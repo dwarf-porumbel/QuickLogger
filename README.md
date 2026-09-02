@@ -1,5 +1,6 @@
 **THIS PROJECT IS FOR EDUCATIONAL-PURPOSES ONLY!**
 
+
 **What is QuickLogger?**
 
 QuickLogger is an advanced KeyLogger built around David Bombal's KeyLogger source-code on GitHub.
@@ -32,6 +33,7 @@ Yes, QuickLogger actually extracts additional text documents searching for passw
 
 Unfortunately no, QuickLogger doesn't have any pre-built evasion systems due to 1 reason:
 (It's a waste of time) QuickLogger is meant to be a small project for Educational-Purposes.
+
 
 
 *Note: QuickLogger doesn't have a operating panel and never will, as this is just a small project.*
