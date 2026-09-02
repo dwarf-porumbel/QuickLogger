@@ -1,29 +1,35 @@
 **THIS PROJECT IS FOR EDUCATIONAL-PURPOSES ONLY!**
 
 **What is QuickLogger?**
+
 QuickLogger is an advanced KeyLogger built around David Bombal's KeyLogger source-code on GitHub.
 It frequently uses pattern matching techniques and is able to detect: typed Passwords, typed Emails, typed Usernames, typed Domains.
 It exfiltrates data across the network to https://webhook.site/, but since it's open-source you can easily modify it with a couple lines of code.
 
 **How does it capture passwords?**
+
 QuickLogger uses a long list of Possible, Overused, Months, and birth years, which are frequently used or combined in passwords.
 Using the data it checks if the victim typed in a possible, overused, or month joined by a year which gets classified as a password.
 e.g: david2002,  myaccount, may2016
 
 **What does does it FingerPrint from the system?**
+
 Anti-Malware uses advanced heuristics which checks if a program accesses information from the system that it's not supposed to,
 so in order for QuickLogger to keep a evade that detection it only fingerprints the administrator name and computer name since they're ordinary system-information
 almost every application FingerPrints.
 
 **How did QuickLogger get it's name?**
+
 I wanted a simple and compact name like Snake Keylogger, 
 I've choose Phoenix Keylogger at first for it to stand out (inspired by the BlackHole Phoenix A) but it was alreay taken, but
 since the it is a KeyLogger and it's supposed to be as fast exfiltrating as possible (for a Python), I've went for 'QuickLogger' instead.
 
 **Does it extract anything else?**
+
 Yes, QuickLogger actually extracts additional text documents searching for passwords saved on the computer inside of them.
 
 **Does QuickLogger have any evasion system?**
+
 Unfortunately no, QuickLogger doesn't have any pre-built evasion systems due to 1 reason:
 (It's a waste of time) QuickLogger is meant to be a small project for Educational-Purposes.
 
