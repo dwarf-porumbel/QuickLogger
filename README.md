@@ -36,9 +36,9 @@ Yes, QuickLogger actually extracts additional text documents searching for passw
 
 **Does QuickLogger have any evasion system?**
 
-Unfortunately no, QuickLogger doesn't have any pre-built evasion systems due to 1 reason:
-(It's a waste of time) QuickLogger is meant to be a small project for Educational-Purposes.
-
+No, QuickLogger doesn't have any pre-built evasion systems due to 2 reasons:
+1. (It's a waste of time) QuickLogger is meant to be a small project for Educational-Purposes.
+2. If evasion systems we're included then that would mean infections would actually begin.
 
 
 *Note: QuickLogger doesn't have an operating panel and never will as this is just a small project.*
