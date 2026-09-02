@@ -14,7 +14,8 @@ It exfiltrates data across the network to https://webhook.site/, but since it's 
 
 QuickLogger uses a long list of Possible, Overused, Months, and birth years, which are frequently used or combined in passwords.
 Using the data it checks if the victim typed in a possible, overused, or month joined by a year which gets classified as a password.
-e.g: david2002,  myaccount, may2016
+
+(e.g: david2002, myaccount, may2016)
 
 **What does does it FingerPrint from the system?**
 
