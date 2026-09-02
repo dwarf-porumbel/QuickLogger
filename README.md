@@ -37,3 +37,6 @@ Unfortunately no, QuickLogger doesn't have any pre-built evasion systems due to 
 
 
 *Note: QuickLogger doesn't have a operating panel and never will, as this is just a small project.*
+
+
+***-2026 release-***
