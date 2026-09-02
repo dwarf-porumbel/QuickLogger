@@ -1,7 +1,8 @@
 <img width="1500" height="500" alt="QuickLogger_Header" src="https://github.com/user-attachments/assets/7fa9a1d3-c73b-4f6c-901d-676197ad41dc" />
 
-
 **THIS PROJECT IS FOR EDUCATIONAL-PURPOSES ONLY!**
+**I DO NOT ENCOURAGE NOR PROMOTE CYBER-CRIME!**
+___
 
 
 **What is QuickLogger?**
@@ -40,4 +41,4 @@ Unfortunately no, QuickLogger doesn't have any pre-built evasion systems due to 
 
 
 
-*Note: QuickLogger doesn't have an operating panel and never will, as this is just a small project.*
+*Note: QuickLogger doesn't have an operating panel and never will as this is just a small project.*
