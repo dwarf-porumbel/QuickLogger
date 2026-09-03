@@ -7,7 +7,7 @@
 
 **What is QuickLogger?**
 
-QuickLogger is an advanced KeyLogger built around David Bombal's KeyLogger source-code on GitHub.
+QuickLogger is an advanced KeyLogger built around David Bombal's KeyLogger source-code on GitHub **for the Windows operating system**.
 It frequently uses pattern matching techniques and is able to detect: typed Passwords, typed Emails, typed Usernames, typed Domains.
 It exfiltrates data across the network to https://webhook.site/, but since it's open-source, you can easily modify it with a couple lines of code.
 ___
