@@ -15,7 +15,5 @@ When somebody runs it, it will:
 
 2. log any password and email they typed in, including domains they accessed
 
-3. steal additional text files from their systems
-
 
 **If you use this program with malicious intent you are COMPLETELY responsible for your actions**
